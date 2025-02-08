@@ -1,5 +1,9 @@
 # Overview
 This project provides an analysis of sales data for FNP, focusing on revenue, customer behavior, and key performance metrics. The analysis is visualized through interactive dashboards and charts to aid in decision-making.
+
+
+![Screenshot (121)](https://github.com/user-attachments/assets/eefcfcc7-0537-45ba-b4fb-4ae1f5d3becf)
+
 # Table of contents
 [Features](#features)
 
