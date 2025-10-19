@@ -1,10 +1,11 @@
 # Ferns N Petals Sales Analysis 
-## Overview
+### Overview
 This project analyzes the sales data of Ferns N Petals (FNP) to uncover key business insights. FNP specializes in sending gifts for various occasions such as Diwali, Raksha Bandhan, Holi, Valentine's Day, Birthdays, and Anniversaries. The goal of this analysis is to derive actionable insights to help optimize sales strategy and improve customer satisfaction.
-## Tools Used
-- Microsoft Excel
 
-## Key Business Questions Answered
+### Tools Used
+- Microsoft Excel
+  - [Download here](https://microsoft.com])
+### Key Business Questions Answered
 1. 💰 Total Revenue - Identifying the overall revenue.
 2. ⏱️ Average Order and Delivery Time - Evaluating order processing and delivery efficiency.
 3. 📅 Monthly Sales Performance - Examining sales trends across different months of 2023.
@@ -16,7 +17,7 @@ This project analyzes the sales data of Ferns N Petals (FNP) to uncover key busi
 9. 🎉 Revenue Comparison Between Occasions - Comparing sales across different festive occasions.
 10. 🎁 Product Popularity by Occasion - Identifying which products are most popular during specific occasions.
 
-## Project Files
+### Project Files
 - 📊 FNP Sales Analysis Dashboard (Excel File) - Contains all visualizations and analysis.
 - 📝 Problem Statement (PDF File) - Outlines the business questions and objectives.
 - 📸 Screenshots of Dashboard - Visual representation of insights extracted.
@@ -25,18 +26,20 @@ This project analyzes the sales data of Ferns N Petals (FNP) to uncover key busi
 2. Review the Problem Statement PDF to understand the key objectives.
 3. Use the Screenshots to get a quick view of the results without opening the Excel file.
 
-## Dashboard Screenshot
-### Sales Overview
+### Dashboard Screenshot
+#### Sales Overview
 
-![Screenshot (121)](https://github.com/user-attachments/assets/eefcfcc7-0537-45ba-b4fb-4ae1f5d3becf)
+<img width="1045" height="551" alt="Dashboard" src="https://github.com/user-attachments/assets/707c4274-5dae-4935-bcf7-056ddd2b3358" />
+<img width="1042" height="553" alt="insights" src="https://github.com/user-attachments/assets/9033bc3d-8a12-4891-8e69-c988d259b24d" />
 
-# Insights & Findings
+
+### Insights & Findings
 - Sales peak during festive occasions like Holi and Raksha Bandhan.
 - Colors and Soft Toys generate the highest revenue among product categories.
 - Customers spend an average of ₹3,520.98 per order.
 - Imphal, Dhanbad, and Kavali are among the top cities by order count.
 - Higher order quantities do not significantly impact delivery time.
-# Conclusion
+### Conclusion
 This analysis provides key insights that can help Ferns N Petals optimize its sales strategies, improve inventory management, and enhance customer experience. The findings highlight the importance of seasonal trends, product popularity, and efficient logistics in driving business growth.
-### Author: Charles Maina
-### Email: charlesmaina2007@gmail.com
+#### Author: Charles Maina
+#### Email: charlesmaina2007@gmail.com
